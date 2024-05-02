@@ -1,4 +1,4 @@
-In this project, i try to deeply understand GraphQl API inner working.
+In this project, i try to deeply understand [GraphQl API](https://graphql.org/learn/) inner working.
 
 ## SOME KEY POINTS OF MY LEARNING
 - it requires only one endpoint
